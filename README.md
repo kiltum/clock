@@ -1,6 +1,7 @@
 # Project Clock
 
 This project was inspired by some reasons:
+
 1. Surprise, I need another clock for my home.
 2. I dont like any available clocks, so I need brand new.  
 3. I want do something, that looks like electronic equipment from 80x. You know, that chips in DIP packages, red boards, rainbow wires and other stuff like this. No SMD, no BGA, only old school!
