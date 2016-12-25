@@ -21,6 +21,7 @@ This project was inspired by some reasons:
 5. Work as remote display. Why not? Sometimes I need to display some number and track it 
 6. Work as phone charger. Qi? Or USB - I dont known best solution yet. 
 7. Work as intellectual reminder/alarm. 
+8. Work as IR receiver/Blaster. I definitely need to power on/off old conditioneer.
 
 ## And ...
 
